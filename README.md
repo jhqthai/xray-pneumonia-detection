@@ -10,6 +10,7 @@ Hardware: Google Collab GPU
 Software: Tensorflow, Keras
 
 Dataset: 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal).
+
 https://data.mendeley.com/datasets/rscbjbr9sj/2
 
 
